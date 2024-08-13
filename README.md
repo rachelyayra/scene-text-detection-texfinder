@@ -18,3 +18,6 @@ The goal of this project is to implement a scene text detector that can detect s
 3. Integrate background context, Font and Layout information
 
 ### Tests
+![test2](https://github.com/user-attachments/assets/bde76b81-5dae-4363-8b89-17434fb67ecb)
+![test1](https://github.com/user-attachments/assets/edd190c4-6628-4a73-ab40-cec94d3c5280)
+
